@@ -25,7 +25,7 @@ struct Context {
 fn index() -> Template {
     let context = Context {
         first_name: String::from("Jane"),
-        last_name: String::from("Doe")
+        last_name: String::from("Doe"),
     };
 
     Template::render("index", context)

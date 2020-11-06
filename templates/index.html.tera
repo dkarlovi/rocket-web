@@ -33,6 +33,7 @@
             right: 5%;
         }
     </style>
+    <title>Hello world!</title>
 </head>
 <body>
 <div class="left-side">
